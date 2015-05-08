@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">XbankAndroid</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="usernameSummary">Benutzername ... Zusammenfassung...</string>
+    <string name="passwordSummary">Passwort ... Zusammenfassung...</string>
+    <string name="login">Login</string>
+    <string name="title_activity_prefs">PrefsActivity</string>
+    <string name="save">Speichern</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="pref_user_title">Benutzerdaten</string>
+    <string name="title_activity_banking">BankingActivity</string>
+    <string name="signed_in_user">Angemeldeter Benutzer:</string>
+    <string name="account_count">Anzahl der Konten:</string>
+    <string name="logout">Logout</string>
+</resources>
